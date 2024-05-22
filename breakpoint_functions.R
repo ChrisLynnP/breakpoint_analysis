@@ -613,7 +613,7 @@ boxplot_breakpoints <- function(result_df, plateau = TRUE) {
   }
 }
 
-############# PART 5: REAL DATA TESTING ##############
+############# PART 5: ALGORITHM EVALUATION ON REAL DATA ##############
 
 plot_real_data <- function(data, character){
   
